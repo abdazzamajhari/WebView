@@ -21,7 +21,7 @@ import kotlinx.android.synthetic.main.activity_web_view.*
 
 class WebViewActivity : AppCompatActivity(){
 
-    private val URL = "http://10.50.1.135:8080/auditapps"
+    private val URL = "https://google.com"
     private var isAlreadyCreated = false
 
 
